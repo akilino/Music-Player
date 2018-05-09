@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Player</string>
+    <string name="radio">Radio Player</string>
+    <string name="music">Music Player</string>
+    <string name="video">Video Player</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="radio_activity">Radio</string>
+    <string name="video_activity">Video</string>
+
+    <string-array name="author">
+        <item>by Aquilino Silva</item>
+        <item>VJ Memes</item>
+        <item>Sassygal</item>
+        <item>fluffy</item>
+    </string-array>
+
+    <string-array name="song">
+        <item>Android Studio Project</item>
+        <item>Amanita Muscaria</item>
+        <item>What do you Say</item>
+        <item>No Brakes</item>
+    </string-array>
+</resources>

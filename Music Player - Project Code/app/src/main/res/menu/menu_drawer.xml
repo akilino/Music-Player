@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_music"
+        android:icon="@drawable/ic_music_black_36"
+        android:title="@string/music"/>
+
+    <item
+        android:id="@+id/item_video"
+        android:icon="@drawable/ic_video_black_36dp"
+        android:title="@string/video"/>
+
+    <item
+        android:id="@+id/item_radio"
+        android:icon="@drawable/ic_radio_black_36dp"
+        android:title="@string/radio"/>
+
+
+</menu>
